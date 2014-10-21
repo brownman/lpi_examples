@@ -1,5 +1,11 @@
 Linux Libraries
 -----
+why
+---
+-  This simplifies the multiple use and sharing of software components between applications 
+
+types
+===
 - Static
 - Shared
 - Dynamic
